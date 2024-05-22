@@ -1,6 +1,6 @@
 ckantoolkit
 Shapely==1.7.0
-pyproj==2.2.2
+pyproj==2.2.1
 OWSLib==0.18.0
 lxml>=2.3
 argparse
